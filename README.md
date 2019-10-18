@@ -7,6 +7,7 @@ First, ensure your node version support async/await new feature
 then
 
 ```js
+npm run install
 node one-line-js-code-draw-a-heart_min.js
 ```
 
