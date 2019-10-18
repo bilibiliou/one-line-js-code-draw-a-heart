@@ -1,6 +1,6 @@
 # print a red heart with just one line code [node js version]
 
-![one-heart.gif](https://bilibiliou.github.io/assets/download/animations/one-heart.gif)
+![one-heart.gif](https://raw.githubusercontent.com/bilibiliou/bilibiliou.github.io/master/assets/img/one-heart.gif)
 
 ## Get start
 
