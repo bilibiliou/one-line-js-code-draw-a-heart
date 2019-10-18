@@ -1,0 +1,23 @@
+{
+  "name": "one-line-js-code-draw-a-heart",
+  "version": "1.0.0",
+  "description": "print a red heart with just one line code",
+  "main": "one-line-js-code-draw-a-heart.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilibiliou/one-line-js-code-draw-a-heart.git"
+  },
+  "author": "bilibiliou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bilibiliou/one-line-js-code-draw-a-heart/issues"
+  },
+  "homepage": "https://github.com/bilibiliou/one-line-js-code-draw-a-heart#readme"
+}
