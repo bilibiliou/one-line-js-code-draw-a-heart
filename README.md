@@ -1,5 +1,7 @@
 # print a red heart with just one line code [node js version]
 
+[one-heart.gif](https://bilibiliou.github.io/assets/download/animations/one-heart.gif)
+
 ## Get start
 
 First, ensure your node version support async/await new feature
