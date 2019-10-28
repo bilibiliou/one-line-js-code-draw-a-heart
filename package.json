@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "print a red heart with just one line code",
   "main": "one-line-js-code-draw-a-heart.js",
-  "dependencies": {
-    "readline-sync": "^1.4.10"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
